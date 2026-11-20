@@ -1,5 +1,5 @@
 # The Kerr metric in canonical harmonic coordinates: recursion and checks
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.nnnn.svg)](https://doi.org/10.5281/zenodo.nnnn)
+[![DOI](https://zenodo.org/badge/1458929082.svg)](https://doi.org/10.5281/zenodo.24397113)
 ![arXiv: 26mm.nnnn](https://img.shields.io/badge/arXiv-26mm.nnnn-b31b1b.svg)
 
 ![Author: Amina Sadu](https://img.shields.io/badge/author-Amina_Sadu-blue)
@@ -124,7 +124,7 @@ The notebook quotes equations by their numbers in the paper. The Python modules 
  
 ## Citing
 
-If you use this code or these data, please cite the paper and this repository (Zenodo DOI to be added).
+If you use this code or these data, please cite the paper and this repository
 
 ```bibtex
 @article{Sadu:2026kerr,
