@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the article given as preferred citation and this repository."
+title: "The Kerr metric in canonical harmonic coordinates: recursion and checks"
+type: software
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Sadu
+    given-names: Amina
+    affiliation: "Université Paris-Saclay, Orsay, France"
+  - family-names: Vanhove
+    given-names: Pierre
+    affiliation: "Institut de Physique Théorique, Université Paris-Saclay, CEA, CNRS, Gif-sur-Yvette, France"
+abstract: >-
+  Position-space implementation, in exact rational arithmetic, of the
+  perturbative recursion that reconstructs the Kerr metric in canonical
+  harmonic coordinates, with the checks reported in the article and the coefficients
+  of the expansion in Newton's constant and in the spin.
+keywords:
+  - general relativity
+  - Kerr black hole
+  - harmonic coordinates
+  - post-Minkowskian expansion
+  - scattering amplitudes
+preferred-citation:
+  type: article
+  title: "The Kerr Metric in Canonical Harmonic Coordinates to All Orders"
+  authors:
+    - family-names: Sadu
+      given-names: Amina
+    - family-names: Vanhove
+      given-names: Pierre
+  year: 2026
