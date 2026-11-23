@@ -1,6 +1,6 @@
 # The Kerr metric in canonical harmonic coordinates: recursion and checks
 [![DOI](https://zenodo.org/badge/1458929082.svg)](https://doi.org/10.5281/zenodo.24397113)
-![arXiv: 26mm.nnnn](https://img.shields.io/badge/arXiv-26mm.nnnn-b31b1b.svg)
+[![arXiv:2611.27573](https://img.shields.io/badge/arXiv-2611.27573-b31b1b.svg)](https://arxiv.org/abs/2611.27573)]
 
 ![Author: Amina Sadu](https://img.shields.io/badge/author-Amina_Sadu-blue)
 [![Author: Pierre Vanhove](https://img.shields.io/badge/author-Pierre_Vanhove-blue)](https://pierrevanhove.github.io)
@@ -14,7 +14,7 @@
 
 Code and data for the paper
 
-> Amina Sadu and Pierre Vanhove, *The Kerr Metric in Canonical Harmonic Coordinates to All Orders* (arXiv number to be added).
+> Amina Sadu and Pierre Vanhove, *The Kerr Metric in Canonical Harmonic Coordinates to All Orders*  [arXiv:2611.27573](https://arxiv.org/abs/2611.27573).
 
 The paper reconstructs the Kerr metric in harmonic coordinates from a perturbative recursion in Newton's constant, started from the Kerr multipoles. It shows that the chart selected by the recursion is the canonical harmonic chart of the multipolar post-Minkowskian formalism, to all orders, and gives it in closed form. This repository contains
 
@@ -127,9 +127,13 @@ The notebook quotes equations by their numbers in the paper. The Python modules 
 If you use this code or these data, please cite the paper and this repository
 
 ```bibtex
-@article{Sadu:2026kerr,
+@article{Sadu:2026wnn,
     author = "Sadu, Amina and Vanhove, Pierre",
-    title  = "{The Kerr Metric in Canonical Harmonic Coordinates to All Orders}",
-    year   = "2026"
+    title = "{The Kerr Metric in Canonical Harmonic Coordinates to All Orders}",
+    eprint = "2611.27573",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    month = "11",
+    year = "2026"
 }
 ```
